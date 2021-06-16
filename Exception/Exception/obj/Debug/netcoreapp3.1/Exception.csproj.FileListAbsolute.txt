@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+C:\Users\alima\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+C:\Users\alima\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+C:\Users\alima\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+C:\Users\alima\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+C:\Users\alima\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\alima\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+C:\Users\alima\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+C:\Users\alima\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\alima\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache
