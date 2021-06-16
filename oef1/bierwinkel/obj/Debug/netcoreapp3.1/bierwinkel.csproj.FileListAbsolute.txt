@@ -1,0 +1,9 @@
+C:\Users\alima\source\repos\oef1\bierwinkel\bin\Debug\netcoreapp3.1\bierwinkel.deps.json
+C:\Users\alima\source\repos\oef1\bierwinkel\bin\Debug\netcoreapp3.1\bierwinkel.dll
+C:\Users\alima\source\repos\oef1\bierwinkel\bin\Debug\netcoreapp3.1\bierwinkel.pdb
+C:\Users\alima\source\repos\oef1\bierwinkel\obj\Debug\netcoreapp3.1\bierwinkel.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\oef1\bierwinkel\obj\Debug\netcoreapp3.1\bierwinkel.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\oef1\bierwinkel\obj\Debug\netcoreapp3.1\bierwinkel.AssemblyInfo.cs
+C:\Users\alima\source\repos\oef1\bierwinkel\obj\Debug\netcoreapp3.1\bierwinkel.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\oef1\bierwinkel\obj\Debug\netcoreapp3.1\bierwinkel.dll
+C:\Users\alima\source\repos\oef1\bierwinkel\obj\Debug\netcoreapp3.1\bierwinkel.pdb
