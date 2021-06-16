@@ -1,0 +1,9 @@
+C:\Users\alima\source\repos\AirLine\Maatschappij\obj\Debug\netcoreapp3.1\Maatschappij.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\AirLine\Maatschappij\obj\Debug\netcoreapp3.1\Maatschappij.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\AirLine\Maatschappij\obj\Debug\netcoreapp3.1\Maatschappij.AssemblyInfo.cs
+C:\Users\alima\source\repos\AirLine\Maatschappij\obj\Debug\netcoreapp3.1\Maatschappij.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\AirLine\Maatschappij\bin\Debug\netcoreapp3.1\Maatschappij.deps.json
+C:\Users\alima\source\repos\AirLine\Maatschappij\bin\Debug\netcoreapp3.1\Maatschappij.dll
+C:\Users\alima\source\repos\AirLine\Maatschappij\bin\Debug\netcoreapp3.1\Maatschappij.pdb
+C:\Users\alima\source\repos\AirLine\Maatschappij\obj\Debug\netcoreapp3.1\Maatschappij.dll
+C:\Users\alima\source\repos\AirLine\Maatschappij\obj\Debug\netcoreapp3.1\Maatschappij.pdb
