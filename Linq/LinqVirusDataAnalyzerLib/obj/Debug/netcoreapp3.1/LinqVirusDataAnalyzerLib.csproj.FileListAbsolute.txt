@@ -1,0 +1,8 @@
+C:\Users\alima\source\repos\Linq\LinqVirusDataAnalyzerLib\bin\Debug\netcoreapp3.1\LinqVirusDataAnalyzerLib.deps.json
+C:\Users\alima\source\repos\Linq\LinqVirusDataAnalyzerLib\bin\Debug\netcoreapp3.1\LinqVirusDataAnalyzerLib.dll
+C:\Users\alima\source\repos\Linq\LinqVirusDataAnalyzerLib\bin\Debug\netcoreapp3.1\LinqVirusDataAnalyzerLib.pdb
+C:\Users\alima\source\repos\Linq\LinqVirusDataAnalyzerLib\obj\Debug\netcoreapp3.1\LinqVirusDataAnalyzerLib.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Linq\LinqVirusDataAnalyzerLib\obj\Debug\netcoreapp3.1\LinqVirusDataAnalyzerLib.AssemblyInfo.cs
+C:\Users\alima\source\repos\Linq\LinqVirusDataAnalyzerLib\obj\Debug\netcoreapp3.1\LinqVirusDataAnalyzerLib.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Linq\LinqVirusDataAnalyzerLib\obj\Debug\netcoreapp3.1\LinqVirusDataAnalyzerLib.dll
+C:\Users\alima\source\repos\Linq\LinqVirusDataAnalyzerLib\obj\Debug\netcoreapp3.1\LinqVirusDataAnalyzerLib.pdb
