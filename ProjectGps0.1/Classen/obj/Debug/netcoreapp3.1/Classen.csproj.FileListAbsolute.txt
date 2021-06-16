@@ -1,0 +1,9 @@
+C:\Users\alima\source\repos\ProjectGPS1\Classen\bin\Debug\netcoreapp3.1\Classen.deps.json
+C:\Users\alima\source\repos\ProjectGPS1\Classen\bin\Debug\netcoreapp3.1\Classen.dll
+C:\Users\alima\source\repos\ProjectGPS1\Classen\bin\Debug\netcoreapp3.1\Classen.pdb
+C:\Users\alima\source\repos\ProjectGPS1\Classen\obj\Debug\netcoreapp3.1\Classen.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\ProjectGPS1\Classen\obj\Debug\netcoreapp3.1\Classen.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\ProjectGPS1\Classen\obj\Debug\netcoreapp3.1\Classen.AssemblyInfo.cs
+C:\Users\alima\source\repos\ProjectGPS1\Classen\obj\Debug\netcoreapp3.1\Classen.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\ProjectGPS1\Classen\obj\Debug\netcoreapp3.1\Classen.dll
+C:\Users\alima\source\repos\ProjectGPS1\Classen\obj\Debug\netcoreapp3.1\Classen.pdb
