@@ -1,0 +1,9 @@
+C:\Users\alima\source\repos\PartyTime\PartyOef\obj\Debug\netcoreapp3.1\PartyOef.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\PartyTime\PartyOef\obj\Debug\netcoreapp3.1\PartyOef.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\PartyTime\PartyOef\obj\Debug\netcoreapp3.1\PartyOef.AssemblyInfo.cs
+C:\Users\alima\source\repos\PartyTime\PartyOef\obj\Debug\netcoreapp3.1\PartyOef.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\PartyTime\PartyOef\bin\Debug\netcoreapp3.1\PartyOef.deps.json
+C:\Users\alima\source\repos\PartyTime\PartyOef\bin\Debug\netcoreapp3.1\PartyOef.dll
+C:\Users\alima\source\repos\PartyTime\PartyOef\bin\Debug\netcoreapp3.1\PartyOef.pdb
+C:\Users\alima\source\repos\PartyTime\PartyOef\obj\Debug\netcoreapp3.1\PartyOef.dll
+C:\Users\alima\source\repos\PartyTime\PartyOef\obj\Debug\netcoreapp3.1\PartyOef.pdb
