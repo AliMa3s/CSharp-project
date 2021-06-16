@@ -1,0 +1,9 @@
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\obj\Debug\netcoreapp3.1\DatabaseSql1.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\obj\Debug\netcoreapp3.1\DatabaseSql1.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\obj\Debug\netcoreapp3.1\DatabaseSql1.AssemblyInfo.cs
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\obj\Debug\netcoreapp3.1\DatabaseSql1.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\bin\Debug\netcoreapp3.1\DatabaseSql1.deps.json
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\bin\Debug\netcoreapp3.1\DatabaseSql1.dll
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\bin\Debug\netcoreapp3.1\DatabaseSql1.pdb
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\obj\Debug\netcoreapp3.1\DatabaseSql1.dll
+C:\Users\alima\source\repos\ADONETBasic\DatabaseSql1\obj\Debug\netcoreapp3.1\DatabaseSql1.pdb
