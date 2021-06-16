@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bierwinkel", "bierwinkel\bierwinkel.csproj", "{192227B8-8547-4049-BD76-B7E7DA7D3FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C561EB5F-10F0-408F-A56D-70B7F23F05E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192227B8-8547-4049-BD76-B7E7DA7D3FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192227B8-8547-4049-BD76-B7E7DA7D3FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192227B8-8547-4049-BD76-B7E7DA7D3FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192227B8-8547-4049-BD76-B7E7DA7D3FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C561EB5F-10F0-408F-A56D-70B7F23F05E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C561EB5F-10F0-408F-A56D-70B7F23F05E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C561EB5F-10F0-408F-A56D-70B7F23F05E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C561EB5F-10F0-408F-A56D-70B7F23F05E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56869FDC-15D6-499F-80D8-8115CD601B45}
+	EndGlobalSection
+EndGlobal
