@@ -1,0 +1,4 @@
+C:\Users\alima\source\repos\RederijOef\Rederij\obj\Debug\netcoreapp3.1\Rederij.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\RederijOef\Rederij\obj\Debug\netcoreapp3.1\Rederij.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\RederijOef\Rederij\obj\Debug\netcoreapp3.1\Rederij.AssemblyInfo.cs
+C:\Users\alima\source\repos\RederijOef\Rederij\obj\Debug\netcoreapp3.1\Rederij.csproj.CoreCompileInputs.cache
