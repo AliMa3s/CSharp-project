@@ -1,0 +1,9 @@
+C:\Users\alima\source\repos\Rederij\scheepvaart\obj\Debug\netcoreapp3.1\scheepvaart.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\Rederij\scheepvaart\obj\Debug\netcoreapp3.1\scheepvaart.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Rederij\scheepvaart\obj\Debug\netcoreapp3.1\scheepvaart.AssemblyInfo.cs
+C:\Users\alima\source\repos\Rederij\scheepvaart\obj\Debug\netcoreapp3.1\scheepvaart.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Rederij\scheepvaart\bin\Debug\netcoreapp3.1\scheepvaart.deps.json
+C:\Users\alima\source\repos\Rederij\scheepvaart\bin\Debug\netcoreapp3.1\scheepvaart.dll
+C:\Users\alima\source\repos\Rederij\scheepvaart\bin\Debug\netcoreapp3.1\scheepvaart.pdb
+C:\Users\alima\source\repos\Rederij\scheepvaart\obj\Debug\netcoreapp3.1\scheepvaart.dll
+C:\Users\alima\source\repos\Rederij\scheepvaart\obj\Debug\netcoreapp3.1\scheepvaart.pdb
