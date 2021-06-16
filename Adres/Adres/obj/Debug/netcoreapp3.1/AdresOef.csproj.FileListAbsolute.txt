@@ -1,0 +1,9 @@
+C:\Users\alima\source\repos\Adres\Adres\obj\Debug\netcoreapp3.1\AdresOef.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\Adres\Adres\obj\Debug\netcoreapp3.1\AdresOef.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Adres\Adres\obj\Debug\netcoreapp3.1\AdresOef.AssemblyInfo.cs
+C:\Users\alima\source\repos\Adres\Adres\obj\Debug\netcoreapp3.1\AdresOef.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Adres\Adres\bin\Debug\netcoreapp3.1\AdresOef.deps.json
+C:\Users\alima\source\repos\Adres\Adres\bin\Debug\netcoreapp3.1\AdresOef.dll
+C:\Users\alima\source\repos\Adres\Adres\bin\Debug\netcoreapp3.1\AdresOef.pdb
+C:\Users\alima\source\repos\Adres\Adres\obj\Debug\netcoreapp3.1\AdresOef.dll
+C:\Users\alima\source\repos\Adres\Adres\obj\Debug\netcoreapp3.1\AdresOef.pdb
