@@ -1,0 +1,8 @@
+C:\Users\alima\source\repos\oef2.1\oef2.1\bin\Debug\netcoreapp3.1\oef2.1.deps.json
+C:\Users\alima\source\repos\oef2.1\oef2.1\bin\Debug\netcoreapp3.1\oef2.1.dll
+C:\Users\alima\source\repos\oef2.1\oef2.1\bin\Debug\netcoreapp3.1\oef2.1.pdb
+C:\Users\alima\source\repos\oef2.1\oef2.1\obj\Debug\netcoreapp3.1\oef2.1.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\oef2.1\oef2.1\obj\Debug\netcoreapp3.1\oef2.1.AssemblyInfo.cs
+C:\Users\alima\source\repos\oef2.1\oef2.1\obj\Debug\netcoreapp3.1\oef2.1.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\oef2.1\oef2.1\obj\Debug\netcoreapp3.1\oef2.1.dll
+C:\Users\alima\source\repos\oef2.1\oef2.1\obj\Debug\netcoreapp3.1\oef2.1.pdb
