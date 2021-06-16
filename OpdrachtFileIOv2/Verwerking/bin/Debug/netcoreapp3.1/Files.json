@@ -1,0 +1,17 @@
+﻿{
+  //Zip bestand
+  "zip": "adresbestanden.zip",
+  //Pad
+  "pad": "C:\\Users\\alima\\source\\repos\\Opdrachten\\OpdrachtFileIOv2",
+  //geef hier pad van uitzip
+  "padUitZip": "C:\\Users\\alima\\source\\repos\\Opdrachten\\OpdrachtFileIOv2\\Uitzip",
+  //geef hier he pad dat alle folders moet gemaakt worden + adress in folders in alfabetisch
+  "padResultaat": "C:\\Users\\alima\\source\\repos\\Opdrachten\\OpdrachtFileIOv2\\Resultaat",
+  //geef hiet het pad van Output file.txt waar alles gemengd en alfabetisch moet uitkomen
+  "padFileNaam": "Adresinfo.txt",
+  "straatnaam": "Straatnamen.csv",
+  "gemeentenaam": "Gemeentenaam.csv",
+  "provincieInfo": "ProvincieInfo.csv",
+  "straatnaamgemeente": "StraatnaamID_GemeenteID.csv",
+  "provincies": "ProvincieIDsVlaanderen.csv"
+}

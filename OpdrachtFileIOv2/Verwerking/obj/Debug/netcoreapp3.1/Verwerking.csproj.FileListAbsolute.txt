@@ -1,0 +1,10 @@
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\bin\Debug\netcoreapp3.1\Files.json
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\bin\Debug\netcoreapp3.1\Verwerking.deps.json
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\bin\Debug\netcoreapp3.1\Verwerking.dll
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\bin\Debug\netcoreapp3.1\Verwerking.pdb
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\obj\Debug\netcoreapp3.1\Verwerking.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\obj\Debug\netcoreapp3.1\Verwerking.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\obj\Debug\netcoreapp3.1\Verwerking.AssemblyInfo.cs
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\obj\Debug\netcoreapp3.1\Verwerking.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\obj\Debug\netcoreapp3.1\Verwerking.dll
+C:\Users\alima\source\repos\Opdrachten\OpdrachtFileIOv2\Verwerking\obj\Debug\netcoreapp3.1\Verwerking.pdb
