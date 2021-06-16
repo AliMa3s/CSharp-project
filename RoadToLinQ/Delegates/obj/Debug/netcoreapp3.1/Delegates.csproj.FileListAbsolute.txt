@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\alima\source\repos\RoadToLinQ\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
