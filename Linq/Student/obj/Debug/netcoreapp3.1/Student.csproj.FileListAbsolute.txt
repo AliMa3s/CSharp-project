@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\Linq\Student\bin\Debug\netcoreapp3.1\Student.exe
+C:\Users\alima\source\repos\Linq\Student\bin\Debug\netcoreapp3.1\Student.deps.json
+C:\Users\alima\source\repos\Linq\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.json
+C:\Users\alima\source\repos\Linq\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.dev.json
+C:\Users\alima\source\repos\Linq\Student\bin\Debug\netcoreapp3.1\Student.dll
+C:\Users\alima\source\repos\Linq\Student\bin\Debug\netcoreapp3.1\Student.pdb
+C:\Users\alima\source\repos\Linq\Student\obj\Debug\netcoreapp3.1\Student.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\Linq\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\Linq\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfo.cs
+C:\Users\alima\source\repos\Linq\Student\obj\Debug\netcoreapp3.1\Student.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Linq\Student\obj\Debug\netcoreapp3.1\Student.dll
+C:\Users\alima\source\repos\Linq\Student\obj\Debug\netcoreapp3.1\Student.pdb
+C:\Users\alima\source\repos\Linq\Student\obj\Debug\netcoreapp3.1\Student.genruntimeconfig.cache
