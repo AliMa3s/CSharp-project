@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\bin\Debug\netcoreapp3.1\BridgePatternOpdracht.exe
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\bin\Debug\netcoreapp3.1\BridgePatternOpdracht.deps.json
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\bin\Debug\netcoreapp3.1\BridgePatternOpdracht.runtimeconfig.json
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\bin\Debug\netcoreapp3.1\BridgePatternOpdracht.runtimeconfig.dev.json
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\bin\Debug\netcoreapp3.1\BridgePatternOpdracht.dll
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\bin\Debug\netcoreapp3.1\BridgePatternOpdracht.pdb
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\obj\Debug\netcoreapp3.1\BridgePatternOpdracht.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\obj\Debug\netcoreapp3.1\BridgePatternOpdracht.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\obj\Debug\netcoreapp3.1\BridgePatternOpdracht.AssemblyInfo.cs
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\obj\Debug\netcoreapp3.1\BridgePatternOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\obj\Debug\netcoreapp3.1\BridgePatternOpdracht.dll
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\obj\Debug\netcoreapp3.1\BridgePatternOpdracht.pdb
+C:\Users\alima\source\repos\BridgePatternOpdracht\BridgePatternOpdracht\obj\Debug\netcoreapp3.1\BridgePatternOpdracht.genruntimeconfig.cache
