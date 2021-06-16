@@ -1,0 +1,13 @@
+C:\Users\alima\source\repos\ForTest\ForTest\bin\Debug\netcoreapp3.1\ForTest.exe
+C:\Users\alima\source\repos\ForTest\ForTest\bin\Debug\netcoreapp3.1\ForTest.deps.json
+C:\Users\alima\source\repos\ForTest\ForTest\bin\Debug\netcoreapp3.1\ForTest.runtimeconfig.json
+C:\Users\alima\source\repos\ForTest\ForTest\bin\Debug\netcoreapp3.1\ForTest.runtimeconfig.dev.json
+C:\Users\alima\source\repos\ForTest\ForTest\bin\Debug\netcoreapp3.1\ForTest.dll
+C:\Users\alima\source\repos\ForTest\ForTest\bin\Debug\netcoreapp3.1\ForTest.pdb
+C:\Users\alima\source\repos\ForTest\ForTest\obj\Debug\netcoreapp3.1\ForTest.csprojAssemblyReference.cache
+C:\Users\alima\source\repos\ForTest\ForTest\obj\Debug\netcoreapp3.1\ForTest.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\ForTest\ForTest\obj\Debug\netcoreapp3.1\ForTest.AssemblyInfo.cs
+C:\Users\alima\source\repos\ForTest\ForTest\obj\Debug\netcoreapp3.1\ForTest.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\ForTest\ForTest\obj\Debug\netcoreapp3.1\ForTest.dll
+C:\Users\alima\source\repos\ForTest\ForTest\obj\Debug\netcoreapp3.1\ForTest.pdb
+C:\Users\alima\source\repos\ForTest\ForTest\obj\Debug\netcoreapp3.1\ForTest.genruntimeconfig.cache
