@@ -1,0 +1,15 @@
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\bin\Debug\Flappy Bird Red.exe.config
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\bin\Debug\Flappy Bird Red.exe
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\bin\Debug\Flappy Bird Red.pdb
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy Bird Red.csproj.AssemblyReference.cache
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\MainWindow.g.cs
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\App.g.cs
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy Bird Red_MarkupCompile.cache
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy Bird Red_MarkupCompile.lref
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\MainWindow.baml
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy Bird Red.g.resources
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy_Bird_Red.Properties.Resources.resources
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy Bird Red.csproj.GenerateResource.cache
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy Bird Red.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy Bird Red.exe
+C:\Users\alima\source\repos\Flappy Bird Red\Flappy Bird Red\obj\Debug\Flappy Bird Red.pdb
